@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1724158125 source:d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"StdTypes.h"
+	"Pet_Interface.h"
+	"Pet.h"
+	"Pet_Private.h"
+
+1724106827 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\pet.h
+
+1724105556 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\stdtypes.h
+
+1724159714 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\pet_interface.h
+
+1724159714 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\pet_private.h
+
+1724158097 source:d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\pet_adoption_game\pet.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"StdTypes.h"
+	"Pet_Interface.h"
+	"Pet.h"
+	"Pet_Private.h"
+
