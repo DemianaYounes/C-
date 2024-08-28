@@ -1,3 +1,3 @@
 # Projects:
- 1-Pet Adoption Game
+ 1-Pet Adoption Game \n
  2-Personal Finance Tracker
