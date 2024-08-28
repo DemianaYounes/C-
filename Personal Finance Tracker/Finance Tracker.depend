@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1724720841 source:c:\users\dell\downloads\finance tracker\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"StdTypes.h"
+	"FinanceTracker_Interface.h"
+
+1724721122 source:c:\users\dell\downloads\finance tracker\financetracker.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<limits>
+	<windows.h>
+	"StdTypes.h"
+	"FinanceTracker_Interface.h"
+	"FinanceTracker_Private.h"
+
+1724718149 c:\users\dell\downloads\finance tracker\stdtypes.h
+
+1724720814 c:\users\dell\downloads\finance tracker\financetracker_interface.h
+
+1724721122 c:\users\dell\downloads\finance tracker\financetracker_private.h
+
+1724722212 source:d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\finance tracker\financetracker.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<limits>
+	<windows.h>
+	"StdTypes.h"
+	"FinanceTracker_Interface.h"
+	"FinanceTracker_Private.h"
+
+1724718149 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\finance tracker\stdtypes.h
+
+1724720814 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\finance tracker\financetracker_interface.h
+
+1724721122 d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\finance tracker\financetracker_private.h
+
+1724720841 source:d:\00-tools\abd el bast embedded system diploma\programs\codeblocks_codes\sessions\finance tracker\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"StdTypes.h"
+	"FinanceTracker_Interface.h"
+
